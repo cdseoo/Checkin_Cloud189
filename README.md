@@ -77,7 +77,8 @@ npm start
 ```
 
 ## 更新内容
-
+### 2024-08-15
+First run.
 ### 2023-08-14
 [支持Telegram推送](https://github.com/wes-lin/Cloud189Checkin/pull/18)
 ### 2023-06-09
